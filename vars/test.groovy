@@ -1,4 +1,3 @@
-// vars/helloWorld.groovy
 
 def helloWorld() {
     echo "Hello, World!"
